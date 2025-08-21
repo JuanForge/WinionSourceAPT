@@ -1,0 +1,26 @@
+[
+    {
+      "name": "tor",
+      "version": "14.5.1",
+      "type": 0,
+      "link": "https://archive.torproject.org/tor-package-archive/torbrowser/14.5.1/tor-expert-bundle-windows-x86_64-14.5.1.tar.gz",
+      "SHA256": "7730a6bcb6dab52e26b09702872d14bd1572ff61455b18b19035666b46c17027"
+    },
+    {
+      "name": "getsession",
+      "version": "1.16.5",
+      "link": "https://getsession.org/windows",
+      "AllowRedirects": true,
+      "type": 3,
+      "SHA256": "58ec9eaeef014fa207a5929dfeca7be7a4aea90b7a8941765ebea97f8a53e8ce"
+    },
+    {
+      "name": "Applio",
+      "version": "3.3.0",
+      "link": "https://github.com/IAHispano/Applio/archive/refs/tags/3.3.0.zip",
+      "removeRoot": "Applio-3.3.0",
+      "AllowRedirects": true,
+      "type": 0,
+      "SHA256": "f86249169a7ea6be659a27abb80d98645ca08d1eec2fae26da617d9fa85fc341"
+    }
+]
