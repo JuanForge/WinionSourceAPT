@@ -2,9 +2,16 @@
     {
       "name": "tor",
       "version": "14.5.1",
-      "type": 0,
       "link": "https://archive.torproject.org/tor-package-archive/torbrowser/14.5.1/tor-expert-bundle-windows-x86_64-14.5.1.tar.gz",
+      "type": 0,
       "SHA256": "7730a6bcb6dab52e26b09702872d14bd1572ff61455b18b19035666b46c17027"
+    },
+    {
+      "name": "TorBrowser",
+      "version": "14.5.6",
+      "link": "https://www.torproject.org/dist/torbrowser/14.5.6/tor-browser-windows-x86_64-portable-14.5.6.exe",
+      "type": 3,
+      "SHA256": "05866e47786df83847a08358067ea43cf919a4fe7c14b85fc9715ccb459d5e7e"
     },
     {
       "name": "getsession",
@@ -22,5 +29,14 @@
       "AllowRedirects": true,
       "type": 0,
       "SHA256": "f86249169a7ea6be659a27abb80d98645ca08d1eec2fae26da617d9fa85fc341"
+    },
+    {
+      "name": "xmrig",
+      "version": "6.24.0",
+      "link": "https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-windows-x64.zip",
+      "removeRoot": "xmrig-6.24.0",
+      "AllowRedirects": true,
+      "type": 0,
+      "SHA256": "d0d751a3bc265db85a7bc351a7792068a8c46a002b703624b64b77920f869350"
     }
 ]
