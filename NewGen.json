@@ -23,6 +23,15 @@
     },
     {
       "name": "Applio",
+      "version": "3.2.9",
+      "link": "https://github.com/IAHispano/Applio/archive/refs/tags/3.2.9.zip",
+      "removeRoot": "Applio-3.2.9",
+      "AllowRedirects": true,
+      "type": 0,
+      "SHA256": "ffe629efb6cea3eee0d50a30b16fac8372bfea84ca75425c99c6647b4a9ee902"
+    },
+    {
+      "name": "Applio",
       "version": "3.3.0",
       "link": "https://github.com/IAHispano/Applio/archive/refs/tags/3.3.0.zip",
       "removeRoot": "Applio-3.3.0",
