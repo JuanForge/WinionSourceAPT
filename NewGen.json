@@ -47,5 +47,25 @@
       "AllowRedirects": true,
       "type": 0,
       "SHA256": "d0d751a3bc265db85a7bc351a7792068a8c46a002b703624b64b77920f869350"
+    },
+    {
+      "name": "llvm-mingw",
+      "version": "20250709",
+      "link": "https://github.com/mstorsjo/llvm-mingw",
+      "removeRoot": "llvm-mingw-20250709-msvcrt-x86_64",
+      "AllowRedirects": true,
+      "type": 0,
+      "SHA256": "c5c6464ca4ffaba7e2159ab75dae0bf55c8ced2c4bc13a758a8ba8e636978d6e",
+      "keywords": ["BuilderCPP"]
+    },
+    {
+      "name": "ntop",
+      "version": "0.3.21",
+      "link": "https://github.com/gsass1/NTop/archive/refs/tags/v0.3.21.zip",
+      "removeRoot": "NTop-0.3.21",
+      "AllowRedirects": true,
+      "type": 0,
+      "SHA256": "d5ea9d4f81c1ae0f39679d18da3ef848e143bf7bda546c72c389a8e2b65e293a",
+      "dependencyKeys": ["BuilderCPP"]
     }
 ]
