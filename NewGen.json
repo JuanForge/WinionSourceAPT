@@ -81,6 +81,8 @@
       "name": "ntop-build",
       "version": "0.3.21",
       "link": "https://github.com/gsass1/NTop/releases/download/v0.3.21/NTop.exe",
+      "outName": "ntop",
+      "outFormat": "exe",
       "AllowRedirects": true,
       "type": 1,
       "SHA256": "a6a36e1c2e9d1a1b1252fd39d57a7d77485aacbce1d55dd9649e7d4d92aac12b"
