@@ -22,6 +22,14 @@
       "SHA256": "58ec9eaeef014fa207a5929dfeca7be7a4aea90b7a8941765ebea97f8a53e8ce"
     },
     {
+      "name": "getsession",
+      "version": "1.16.6",
+      "link": "https://getsession.org/windows",
+      "AllowRedirects": true,
+      "type": 3,
+      "SHA256": "6462ba69a2a3d2fd6be503342002219d9c0c8d85f28be5ca346cb2b3dd2b589c"
+    },
+    {
       "name": "Applio",
       "version": "3.2.9",
       "link": "https://github.com/IAHispano/Applio/archive/refs/tags/3.2.9.zip",
@@ -51,7 +59,7 @@
     {
       "name": "llvm-mingw",
       "version": "20250709",
-      "link": "https://github.com/mstorsjo/llvm-mingw",
+      "link": "https://github.com/mstorsjo/llvm-mingw/releases/download/20250709/llvm-mingw-20250709-msvcrt-x86_64.zip",
       "removeRoot": "llvm-mingw-20250709-msvcrt-x86_64",
       "AllowRedirects": true,
       "type": 0,
@@ -63,6 +71,7 @@
       "version": "0.3.21",
       "link": "https://github.com/gsass1/NTop/archive/refs/tags/v0.3.21.zip",
       "removeRoot": "NTop-0.3.21",
+      "BuildExe": "gcc -DNTOP_VER='\"0.3.21\"' ntop.c util.c vi.c -ladvapi32 -luser32 -o ntop.exe",
       "AllowRedirects": true,
       "type": 0,
       "SHA256": "d5ea9d4f81c1ae0f39679d18da3ef848e143bf7bda546c72c389a8e2b65e293a",
