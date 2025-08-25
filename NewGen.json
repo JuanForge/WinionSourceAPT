@@ -48,6 +48,14 @@
       "SHA256": "f86249169a7ea6be659a27abb80d98645ca08d1eec2fae26da617d9fa85fc341"
     },
     {
+      "name": "Applio-build",
+      "version": "3.3.0",
+      "link": "https://huggingface.co/IAHispano/Applio/resolve/main/Compiled/Windows/ApplioV3.3.0.zip",
+      "AllowRedirects": true,
+      "type": 0,
+      "SHA256": "641bddfded4e21b735397572420b34d09d1905c72939a9d629ce981f5fc68ea2"
+    },
+    {
       "name": "xmrig",
       "version": "6.24.0",
       "link": "https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-windows-x64.zip",
