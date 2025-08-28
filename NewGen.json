@@ -94,5 +94,59 @@
       "AllowRedirects": true,
       "type": 1,
       "SHA256": "a6a36e1c2e9d1a1b1252fd39d57a7d77485aacbce1d55dd9649e7d4d92aac12b"
+    },
+    {
+      "name": "btop4win-build",
+      "version": "1.0.4",
+      "link": "https://github.com/aristocratos/btop4win/releases/download/v1.0.4/btop4win-x64.zip",
+      "removeRoot": "btop4win",
+      "AllowRedirects": true,
+      "type": 0,
+      "SHA256": "d95bb671232a97ad951b7fc22813c2ea0417e164e797e5e476eedf3313d30126"
+    },
+    {
+      "name": "btop4win-LHM-build",
+      "version": "1.0.4",
+      "link": "https://github.com/aristocratos/btop4win/releases/download/v1.0.4/btop4win-LHM-x64.zip",
+      "removeRoot": "btop4win",
+      "AllowRedirects": true,
+      "type": 0,
+      "SHA256": "9e0b5716fa89a2a333e370beb97060d261952ab5de597d3678fbdace49626ae1"
+    },
+    {
+      "name": "btop4win-source",
+      "version": "1.0.4",
+      "link": "https://github.com/aristocratos/btop4win/archive/refs/tags/v1.0.4.zip",
+      "removeRoot": "btop4win-1.0.4",
+      "AllowRedirects": true,
+      "type": 0,
+      "SHA256": "da6099daf7a76554d67b64eacb2f3e930e8912eda779142ad11a5060f123b109"
+    },
+    {
+      "name": "ComfyUI",
+      "version": "0.3.52",
+      "link": "https://github.com/comfyanonymous/ComfyUI/archive/refs/tags/v0.3.52.zip",
+      "removeRoot": "ComfyUI-0.3.52",
+      "AllowRedirects": true,
+      "type": 0,
+      "SHA256": "dcab3d2ba4e3a3339333be43824afd37de52ceda008dcbf27c7da3f75af9568f"
+    },
+    {
+      "name": "ComfyUI_nvidia-build",
+      "version": "0.3.52",
+      "link": "https://github.com/comfyanonymous/ComfyUI/releases/download/v0.3.52/ComfyUI_windows_portable_nvidia.7z",
+      "removeRoot": "ComfyUI_windows_portable",
+      "AllowRedirects": true,
+      "type": 0,
+      "SHA256": "601ae6d629c68efac669b2eb92b7eb95755de522a5381ee78d7709e378144fa5"
+    },
+    {
+      "name": "RedTiger-Tools",
+      "version": "6.6",
+      "link": "https://github.com/loxy0dev/RedTiger-Tools/archive/refs/tags/v6.6.zip",
+      "removeRoot": "RedTiger-Tools-6.6",
+      "AllowRedirects": true,
+      "type": 0,
+      "SHA256": "fe0aac69c676812e4a82113cc861c4a0a94f0dde913fd6573f1226b345a13ee2"
     }
 ]
