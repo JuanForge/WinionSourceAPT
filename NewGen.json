@@ -72,7 +72,8 @@
       "AllowRedirects": true,
       "type": 0,
       "SHA256": "c5c6464ca4ffaba7e2159ab75dae0bf55c8ced2c4bc13a758a8ba8e636978d6e",
-      "keywords": ["BuilderCPP"]
+      "keywords": ["BuilderCPP"],
+      "addPath": ["bin"]
     },
     {
       "name": "ntop",
