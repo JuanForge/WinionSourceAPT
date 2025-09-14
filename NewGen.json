@@ -149,5 +149,13 @@
       "AllowRedirects": true,
       "type": 0,
       "SHA256": "fe0aac69c676812e4a82113cc861c4a0a94f0dde913fd6573f1226b345a13ee2"
+    },
+    {
+      "name": "VeraCrypt",
+      "version": "1.26.24",
+      "link": "https://github.com/veracrypt/VeraCrypt/releases/download/VeraCrypt_1.26.24/VeraCrypt.Setup.1.26.24.exe",
+      "AllowRedirects": true,
+      "type": 3,
+      "SHA256": "08b80ab6a6c4eca08e18096c9468fe0bd2e33fc23142730e59177e6fcd7c902d"
     }
 ]
