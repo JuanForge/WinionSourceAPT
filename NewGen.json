@@ -157,5 +157,14 @@
       "AllowRedirects": true,
       "type": 3,
       "SHA256": "08b80ab6a6c4eca08e18096c9468fe0bd2e33fc23142730e59177e6fcd7c902d"
+    },
+    {
+      "name": "InterLinkerRoblox",
+      "version": "0.0.1",
+      "link": "https://github.com/JuanForge/InterLinkerRoblox/archive/refs/tags/0.0.1.zip",
+      "removeRoot": "InterLinkerRoblox-0.0.1",
+      "AllowRedirects": true,
+      "type": 0,
+      "SHA256": "64a24b2387723ae16354bcfbf0f9b4b3bc8280c16f388b6bd789f6a8e80d9d3d"
     }
 ]
